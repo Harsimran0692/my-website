@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-website/static/css/main.d37d8742.css",
-    "main.js": "/my-website/static/js/main.ded03f7c.js",
+    "main.js": "/my-website/static/js/main.717735d2.js",
     "static/css/64.bba8fa55.chunk.css": "/my-website/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/my-website/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/my-website/static/css/769.b3cbb36b.chunk.css",
@@ -9,6 +9,7 @@
     "static/media/Montserrat-Regular.ttf": "/my-website/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Maharshi_Dayanand_University_logo.png": "/my-website/static/media/Maharshi_Dayanand_University_logo.0094813864f2578fca65.png",
     "static/media/Agustina.woff": "/my-website/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/banner-URLShorteners.jpg": "/my-website/static/media/banner-URLShorteners.1d5d7b0329f08a75dda9.jpg",
     "static/media/chat-app.jpg": "/my-website/static/media/chat-app.eaf7d8114eb3a6d5b086.jpg",
     "static/media/manOnTable.svg": "/my-website/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/my-website/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -24,7 +25,7 @@
     "index.html": "/my-website/index.html",
     "static/media/talksCardBack.svg": "/my-website/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.d37d8742.css.map": "/my-website/static/css/main.d37d8742.css.map",
-    "main.ded03f7c.js.map": "/my-website/static/js/main.ded03f7c.js.map",
+    "main.717735d2.js.map": "/my-website/static/js/main.717735d2.js.map",
     "64.bba8fa55.chunk.css.map": "/my-website/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/my-website/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/my-website/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.d37d8742.css",
-    "static/js/main.ded03f7c.js"
+    "static/js/main.717735d2.js"
   ]
 }
