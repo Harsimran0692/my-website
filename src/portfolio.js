@@ -238,13 +238,17 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/banner-URLShorteners.jpg"),
+      projectName: "URL Shortener",
+      projectDesc: "This applications used to short any URL with user authentication and web analytics data.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://url-shortener-flax-six.vercel.app/"
+        },
+        {
+          name: "Source Code",
+          url: "https://github.com/Harsimran0692/url-shortener"
         }
       ]
     },
@@ -321,7 +325,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
